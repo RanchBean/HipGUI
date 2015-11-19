@@ -2,7 +2,11 @@ package gui.controller;
 
 import hip.model.Hipster;
 import gui.view.HipFrame;
-
+/**
+ * Holds all of the frame and panel componets from view package.
+ * @author ethr5627
+ *
+ */
 public class HipGUI 
 {
 	private Hipster firstHipster;
